@@ -1,0 +1,2 @@
+import xnx
+xnx.xd()
